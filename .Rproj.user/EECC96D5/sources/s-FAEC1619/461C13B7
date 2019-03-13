@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1552456042166.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1964100620",
+    "id" : "461C13B7",
+    "lastKnownWriteTime" : 1552456049,
+    "last_content_update" : -2147483648,
+    "path" : "~/GitHub/My-R/1122.Rmd",
+    "project_path" : "1122.Rmd",
+    "properties" : {
+        "cursorPosition" : "1,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
